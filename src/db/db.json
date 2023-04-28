@@ -1,0 +1,74 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Hyderabad",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Secundrabad",
+      "rating": "4.5",
+      "email": "mcdonal@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Santosh Daba",
+      "address": "Hyderabad",
+      "rating": "4.5",
+      "email": "santoshdaba@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Rayaseema Ruchulu",
+      "address": "Madapur",
+      "rating": "4.5",
+      "email": "rayaseemaruchulu@test.com"
+    },
+    {
+      "id": "7",
+      "name": "abc",
+      "email": "tlm@gmail.com",
+      "address": "hyd",
+      "rating": "4"
+    },
+    {
+      "id": "8",
+      "name": "sls",
+      "email": "ghi@gmail.com",
+      "address": "kothapet",
+      "rating": "4"
+    },
+    {
+      "id": "9",
+      "name": "zx",
+      "email": "tlm@gmail.com",
+      "address": "sxcs",
+      "rating": "5"
+    },
+    {
+      "name": "abs",
+      "email": "hm@gmail.com",
+      "address": "knkn",
+      "rating": "6",
+      "id": "10"
+    },
+    {
+      "name": "kamat",
+      "email": "tlm@gmail.com",
+      "address": "hyd",
+      "rating": "9",
+      "id": "11"
+    },
+    {
+      "name": "jkl",
+      "email": "abc@gmail.com",
+      "address": "hyd",
+      "rating": "5",
+      "id": "13"
+    }
+  ]
+}
